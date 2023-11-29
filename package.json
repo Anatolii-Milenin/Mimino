@@ -5,7 +5,7 @@
   "homepage": "https://Anatolii-Milenin.github.io/Mimino",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /parcel-team-project-mimino/"
+    "build": "parcel build src/*.html --public-url /Mimino/"
   },
   "repository": {
     "type": "git",
